@@ -8,7 +8,7 @@
 ## How To Use
 1. Clone the repository.
 ``` 
-git clone https://github.com/lucianogriffa/numberIncrement-python/
+git clone https://github.com/g3ksec/numberIncrement-python/
 ```
 2. Enter the folder.
 ```
