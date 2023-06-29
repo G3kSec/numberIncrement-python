@@ -24,11 +24,6 @@ python count.py
 - Each number in the sequence will be saved in a file called "totalCount.txt". **If the file does not exist, it will be created automatically**.
 - You can open the **"totalCount.txt"** file to see the generated sequence of numbers.
 
-```
-██████╗ ██╗   ██╗     ██████╗ ██████╗ ██╗  ██╗███████╗███████╗ ██████╗
-██╔══██╗╚██╗ ██╔╝    ██╔════╝ ╚════██╗██║ ██╔╝██╔════╝██╔════╝██╔════╝
-██████╔╝ ╚████╔╝     ██║  ███╗ █████╔╝█████╔╝ ███████╗█████╗  ██║     
-██╔══██╗  ╚██╔╝      ██║   ██║ ╚═══██╗██╔═██╗ ╚════██║██╔══╝  ██║     
-██████╔╝   ██║       ╚██████╔╝██████╔╝██║  ██╗███████║███████╗╚██████╗
-╚═════╝    ╚═╝        ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
-```
+---
+
+**By Luciano Griffa | 2023**
