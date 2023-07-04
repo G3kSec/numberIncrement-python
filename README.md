@@ -26,4 +26,4 @@ python count.py
 
 ---
 
-**By Luciano Griffa | 2023**
+**By G3kSec | 2023**
