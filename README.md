@@ -8,7 +8,7 @@
 ## How To Use
 1. Clone the repository.
 ``` 
-git clone https://github.com/g3ksec/numberIncrement-python/
+git clone https://github.com/LucianoGriffa/numberIncrement-python/
 ```
 2. Enter the folder.
 ```
@@ -26,4 +26,4 @@ python count.py
 
 ---
 
-**By G3kSec | 2023**
+**By Luciano Griffa | 2023**
